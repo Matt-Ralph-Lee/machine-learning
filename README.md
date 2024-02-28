@@ -4,8 +4,8 @@ Welcome to the Machine Learning Projects repository! This repository contains th
 
 # Table of Contents
 1. [3D User Interface](#project-1-3d-user-interface)
-2. [Apple Quality Classification Machine Learning Project](#Project 2: Apple Quality Classification Machine Learning Project)
-3. [Image Classification with Tensorflow](Project 3: Image Classification with Tensorflow)
+2. [Apple Quality Classification Machine Learning Project](#project-2-apple-quality-classification-machine-learning-project)
+3. [Image Classification with Tensorflow](#project-3-image-classification-with-tensorflow)
 
 ## Project 1: 3D User Interface
 
