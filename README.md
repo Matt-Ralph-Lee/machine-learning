@@ -25,9 +25,7 @@ This project aims to address the limitations of current 3D user interfaces, part
 
 https://github.com/Matt-Ralph-Lee/machine-learning/assets/95742819/c04fac8e-f41f-4f68-8cb1-1b16bfcc0681
 
-
-
-
+<br>
 
 ## Project 2: Apple Quality Classification Machine Learning Project
 
@@ -59,8 +57,7 @@ The training process involves splitting the dataset into training and testing se
 
 The CatBoostClassifier is a key component of this project. It is a powerful algorithm designed for categorical feature support, handling missing data, and providing high-quality results with default hyperparameters. The goal is to fine-tune the parameters to achieve a classification accuracy exceeding 90%.
 
-
-
+<br>
 
 ## Project 3: Image Classification with Tensorflow
 
