@@ -2,6 +2,11 @@
 
 Welcome to the Machine Learning Projects repository! This repository contains three diverse projects, each addressing unique challenges and applications within the realm of machine learning.
 
+# Table of Contents
+1. (3D User Interface)[#Project 1: 3D User Interface]
+2. (Apple Quality Classification Machine Learning Project)[#Project 2: Apple Quality Classification Machine Learning Project]
+3. 
+
 ## Project 1: 3D User Interface
 
 ### Overview
@@ -19,6 +24,8 @@ This project aims to address the limitations of current 3D user interfaces, part
 ### Video Demonstration
 
 https://github.com/Matt-Ralph-Lee/machine-learning/assets/95742819/c04fac8e-f41f-4f68-8cb1-1b16bfcc0681
+
+
 
 
 
@@ -51,3 +58,20 @@ The training process involves splitting the dataset into training and testing se
 ## CatBoostClassifier
 
 The CatBoostClassifier is a key component of this project. It is a powerful algorithm designed for categorical feature support, handling missing data, and providing high-quality results with default hyperparameters. The goal is to fine-tune the parameters to achieve a classification accuracy exceeding 90%.
+
+
+
+
+## Project 3: Image Classification with Tensorflow
+
+### Overview
+
+This project focuses on image classification using the popular CIFAR-10 dataset. The primary goal is to build a ResNet (Residual Neural Network) from scratch using TensorFlow, showcasing proficiency in deep learning concepts and model implementation.
+
+### Key Features
+
+- **Image Classification:** This project uses CIFAR-10 as dataset.
+
+- **ResNet:** The project uses machine learning technique especially ResNet[https://arxiv.org/pdf/1512.03385.pdf]. It is written from scratch.
+
+- **Tensorflow:** Uses Tensorflow to implement machine learning architecture
