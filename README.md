@@ -19,3 +19,33 @@ This project aims to address the limitations of current 3D user interfaces, part
 ### Video Demonstration
 
 https://github.com/Matt-Ralph-Lee/machine-learning/assets/95742819/c04fac8e-f41f-4f68-8cb1-1b16bfcc0681
+
+## Project 2: Apple Quality Classification Machine Learning Project
+
+### Overview
+
+This project focuses on utilizing machine learning techniques to classify the quality of apples based on various features. The goal is to achieve accurate classification with an emphasis on achieving over 90% accuracy using the CatBoostClassifier.
+
+## Introduction
+
+This project focuses on using machine learning techniques to classify the quality of apples. The classification is based on various features of apples, and the ultimate goal is to achieve a classification accuracy of over 90% using the CatBoostClassifier.
+
+## Dataset
+
+The dataset used for this project contains table data with various features related to apples. Each entry in the dataset represents an apple, and the features include aspects such as size, sweetness, weight, and other relevant characteristics.
+
+## Machine Learning Approach
+
+The machine learning approach adopted in this project involves the use of the scikit-learn library for tasks such as data preprocessing, model training, and evaluation. The primary classification algorithm chosen for this project is the CatBoostClassifier, a gradient boosting algorithm that is well-suited for categorical features.
+
+## Exploratory Data Analysis (EDA)
+
+Before diving into model training, exploratory data analysis (EDA) is performed to gain insights into the dataset. This includes visualizations and statistical summaries to understand the distribution of features, identify correlations, and preprocess data if necessary.
+
+## Training
+
+The training process involves splitting the dataset into training and testing sets. The training set is used to train the machine learning model, and the testing set is used to evaluate its performance. Hyperparameter tuning may be employed to optimize the model.
+
+## CatBoostClassifier
+
+The CatBoostClassifier is a key component of this project. It is a powerful algorithm designed for categorical feature support, handling missing data, and providing high-quality results with default hyperparameters. The goal is to fine-tune the parameters to achieve a classification accuracy exceeding 90%.
