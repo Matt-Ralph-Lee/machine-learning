@@ -3,9 +3,9 @@
 Welcome to the Machine Learning Projects repository! This repository contains three diverse projects, each addressing unique challenges and applications within the realm of machine learning.
 
 # Table of Contents
-1. (3D User Interface)[#Project 1: 3D User Interface]
-2. (Apple Quality Classification Machine Learning Project)[#Project 2: Apple Quality Classification Machine Learning Project]
-3. 
+1. [3D User Interface](#Project 1: 3D User Interface)
+2. [Apple Quality Classification Machine Learning Project](#Project 2: Apple Quality Classification Machine Learning Project)
+3. [Image Classification with Tensorflow](Project 3: Image Classification with Tensorflow)
 
 ## Project 1: 3D User Interface
 
@@ -69,6 +69,6 @@ This project focuses on image classification using the popular CIFAR-10 dataset.
 
 - **Image Classification:** This project uses CIFAR-10 as dataset.
 
-- **ResNet:** The project uses machine learning technique especially ResNet[https://arxiv.org/pdf/1512.03385.pdf]. It is written from scratch.
+- **ResNet:** The project uses machine learning technique especially ResNet(https://arxiv.org/pdf/1512.03385.pdf). It is written from scratch.
 
 - **Tensorflow:** Uses Tensorflow to implement machine learning architecture
