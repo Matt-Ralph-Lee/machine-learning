@@ -69,6 +69,6 @@ This project focuses on image classification using the popular CIFAR-10 dataset.
 
 - **Image Classification:** This project uses CIFAR-10 as dataset.
 
-- **ResNet:** The project uses machine learning technique especially ResNet(https://arxiv.org/pdf/1512.03385.pdf). It is written from scratch.
+- **ResNet:** The project uses machine learning technique especially [ResNet](https://arxiv.org/pdf/1512.03385.pdf). It is written from scratch.
 
 - **Tensorflow:** Uses Tensorflow to implement machine learning architecture
